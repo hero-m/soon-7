@@ -171,6 +171,7 @@ a:focus{
 	padding: 14px;
 	margin-bottom: 30px;
 	resize: none;
+	direction: rtl;
 }
 
 .contact-box .form-control::-webkit-input-placeholder{
